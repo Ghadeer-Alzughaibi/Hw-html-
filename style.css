@@ -1,0 +1,41 @@
+p {
+    font-family: Roboto;
+    margin-left: 100px;
+}
+
+img { /* image*/
+ float: left;
+ padding-right: 40px;
+}
+  
+ .ta { /*table*/
+    border:solid;
+   
+ }
+ table {
+    border-color: lightgreen;
+    width: 90%;
+   margin-left: 50px;
+   table-layout: fixed;
+ }
+  .b { /*button home page*/
+    margin-left: 700px;
+    background-color: lightgreen;
+  }
+  .f {font-weight: bolder; /*forms*/
+    max-width: 300px;
+    margin: 10px;
+    padding: 5px; 
+    margin-left: 400px; 
+   
+} 
+label { font-family:Consolas;
+        display: block ;
+        padding: 16px 0 .80px; 
+         
+}
+.u { /*button contact me*/
+    margin-left: 300px;
+    background-color: rgb(255, 0, 170);
+    
+  }
